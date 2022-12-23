@@ -10,3 +10,4 @@ The final state of the project in the [video tutorial](https://youtu.be/icR9EIS1
 [CodeSandox Demo](https://codesandbox.io/s/github/AriaMinaei/theatre-example-bouncing-box?file=/index.html)
 
 ## repo
+https://github.com/prasanna-gmail/theatre-example-bouncing-box/
